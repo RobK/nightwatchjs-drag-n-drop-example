@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="drag-and-drop"
+             errors="0"
+             failures="0"
+             tests="2">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Drag and drop test (useXpath)" package="drag-and-drop" skipped="0"
+    tests="1" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;#draggable&gt; was visible after 39 milliseconds.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Drag and drop test (useCss)" package="drag-and-drop" skipped="0"
+    tests="1" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;#draggable&gt; was visible after 38 milliseconds.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
